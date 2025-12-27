@@ -1,0 +1,11 @@
+# Finans Telegram Botu - Koyeb Dependencies
+# ==========================================
+
+# Telegram Bot API
+python-telegram-bot==21
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Not: json, os, sys, logging Python built-in modülleridir
